@@ -1,16 +1,16 @@
 # Beer Recommendation Engine
 
-The beer recommendation engine was designed as the second capstone project for Springboard's Data Science Bootcamp, where the main goal is to provide accurate beer recommendations to users. The project includes various elements. First, the data collection of data being scraped from the web and stored to a database using cloud services via Amazon Web Services. Second, an exploratory data analysis to get a better understanding of the data. Third, and finally, the design and implementation of a machine learning recommendation engine.
+The beer recommendation engine was designed as the second capstone project for Springboard's Data Science Bootcamp, where the main goal was to provide accurate beer recommendations to users. The project includes various elements. First, the data collection with data being scraped from the web and stored to a database using cloud technologies via Amazon Web Services. Second, an exploratory data analysis to get a better understanding of the data. Third, and finally, the design and implementation of a machine learning recommendation engine.
 
 ## Recruiters/Companies/Hiring Managers, please read:
-The main culmination of the Data Science Bootcamp is the creation of the capstone projects, of which there are 2 and the Beer Recommendation Engine is the second and final project.
+The main culmination of the Data Science Bootcamp is the creation of capstone projects, of which there are 2 and the Beer Recommendation Engine is the second and final project.
 
-The main files of interest are in the Final folder, which contains the following:
+The main files of interest are the following:
 * CJ Johanson Recommendation Report PDF: A summary report of the project focused on methodology, techniques, and findings.
 * CJ Johanson Beer Recommendation Engine IPYNB: Jupyter notebook of all relevant code used for the recommendation engine.
 * CJ Johanson Recommendation Engine Slides PDF: Presentation slides for the project.
 
-In addition, there are additional folders which contain the following:
+There are additional folders which contain the following:
 * CSVs: Contains all the data used in the project in csv format. Note: the csv containing all the ratings was too large to load to GitHub and was excluded from the repo.
 * EDA: Contains Jupyter notebook for the code used in the Exploratory Data Analysis, as well as the visualizations that were generated for the EDA.
 * Python scripts: Contains .py scripts for both the web scrapers and the machine learning section's initial testing of algorithms.
