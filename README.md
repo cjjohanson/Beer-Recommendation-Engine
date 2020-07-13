@@ -18,11 +18,3 @@ There are additional folders which contain the following:
 
 ### If you have any questions or would like to reach out, I would be more than happy to talk. You can reach me at cjohanson38 at gmail dot com.
 
-
-
-
-
-
-
-### Beer Recommendation Engine
-The beer recommendation engine was designed as the second capstone project for Springboard's Data Science Bootcamp, where the main goal is to provide accurate beer recommendations to users. The project includes various elements. First, the data collection of data being scraped from the web and stored to a database using cloud services via Amazon Web Services. Second, an exploratory data analysis to get a better understanding of the data. Third, and finally, the design and implementation of a machine learning recommendation engine.
